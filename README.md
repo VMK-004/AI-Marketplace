@@ -4,7 +4,7 @@ Welcome to **AI Car Marketplace** – an AI-powered platform that helps users di
 
 🌐 Hosted at: [ai-marketplace-inky.vercel.app](https://ai-marketplace-inky.vercel.app)
 
-![Preview](https://github.com/VMK-004/AI-Marketplace/assets/preview.png)
+![Preview](./Ai car marketplace.mp4)
 
 ---
 
