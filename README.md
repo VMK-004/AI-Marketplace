@@ -1,8 +1,8 @@
 # 🚗 AI Car Marketplace
 
-Welcome to **AI Car Marketplace** – an AI-powered platform that helps users find their dream cars through intelligent image recognition and streamlined marketplace features.
+Welcome to **AI Car Marketplace** – an AI-powered platform that helps users discover their dream cars by simply uploading an image. Using intelligent image recognition, the app extracts car details and powers an interactive marketplace experience.
 
-Hosted at: [ai-marketplace-inky.vercel.app](https://ai-marketplace-inky.vercel.app)
+🌐 Hosted at: [ai-marketplace-inky.vercel.app](https://ai-marketplace-inky.vercel.app)
 
 ![Preview](https://github.com/VMK-004/AI-Marketplace/assets/preview.png)
 
@@ -10,14 +10,14 @@ Hosted at: [ai-marketplace-inky.vercel.app](https://ai-marketplace-inky.vercel.a
 
 ## 📌 Project Overview
 
-This project uses AI to extract car details from images and display intelligent car recommendations. It was built using modern full-stack tools with a focus on real-time interaction, clean UI, and extensibility.
+This platform uses **AI** to identify car specifications from uploaded images and enables users to explore or list cars through a dynamic admin dashboard. Built with modern full-stack tools, it ensures a seamless, responsive, and secure experience.
 
 ---
 
 ## ✨ Features
 
 - 🔍 **AI Image Recognition** – Upload a car image and detect key attributes like make, model, year, etc.
-- 🧠 **OpenAI Integration** – Extracts detailed car descriptions using AI prompt engineering.
+- 🧠 **GEMINI Integration** – Extracts detailed car descriptions using AI prompt engineering.
 - 🛠️ **Admin Panel** – Add, update, or delete car listings using a secure admin dashboard.
 - 🔑 **Authentication** – Secure login/logout using Clerk.
 - 🌐 **Responsive Design** – Built with Tailwind CSS and works on all devices.
@@ -42,7 +42,7 @@ This project uses AI to extract car details from images and display intelligent 
 ## 🧠 How It Works
 
 1. 📸 User uploads a car image.
-2. 🧠 AI processes the image and extracts car details.
+2. 🤖 AI processes the image and extracts car details.
 3. ✍️ User can modify auto-filled form data.
 4. ✅ Car gets listed or recommendations are made.
 
