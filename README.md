@@ -33,9 +33,9 @@ This project uses AI to extract car details from images and display intelligent 
 | --------------- | ------------------------------------------ |
 | Frontend        | Next.js 15, React, Tailwind CSS, Shadcn UI |
 | Backend         | Next.js API Routes, Prisma ORM, PostgreSQL |
-| AI Integration  | OpenAI (Gemini/GPT API)                    |
+| AI Integration  | GEMINI API                                 |
 | Auth & Security | Clerk, Arcjet                              |
-| Dev Tools       | TypeScript, Vercel, GitHub                 |
+| Dev Tools       | JavaScript, Vercel, GitHub                 |
 
 ---
 
